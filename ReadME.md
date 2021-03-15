@@ -38,7 +38,7 @@ run the App on [localhost] (http: // localhost: 8080)
 
 ## Media
 
-[![Watch the video](./GitMedia/home.PNG)](./GitMedia/movieChallenger.gif)
+[![Watch the video](./GitMedia/movieChallenger.gif)
 
 ## Node version
 
